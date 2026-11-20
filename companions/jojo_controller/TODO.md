@@ -1,0 +1,13 @@
+# JoJo-OS Controller
+
+- [x] App Android com controle virtual de luta: direcional multitouch, seis ataques A/B/C/X/Y/Z e Start. Tela de escolha USB/Bluetooth, iniciar/encerrar sessão, indicação por callbacks de conexão e atividade. Preview tem teste de layout explicitamente local, sem envio ao PC.
+- [x] USB implementado nas fontes: canal próprio via ADB reverse e receptor Python local no Windows. Autenticação por código de sessão, mapa configurável para entradas do IKEMEN. Desconexão libera teclas; perda de foco não envia comandos para outros aplicativos. Testes de socket real com backend de registro passaram; USB físico/SendInput em Windows ainda não testados.
+- [x] Bluetooth implementado nas fontes: módulo Android BluetoothHidDevice anuncia gamepad HID, pede permissões, lista computadores pareados e acompanha callbacks de registro/conexão. Não usa DroidCast como transporte. Compilação e pareamento real ainda pendentes.
+- [x] Mapear botões do app para posições lógicas e ajustar teclas no receptor PC. Tratar quedas, permitir reconectar e limpar comandos ao encerrar/ir para segundo plano. Watchdog nativo de 300 ms e timeout host de 0,5 s; testes estáticos não substituem um teste de travamento físico.
+- [x] Integrar o receptor ao hub existente sem remover Android APK/dados, SBR ou downloads de personagens. Launcher INICIAR_CONTROLE_USB.bat para abrir receptor. Fontes do companheiro e receptor entregues com instruções; nenhum APK companion novo é alegado sem build.
+- [x] Validação em fonte: TypeScript/lint/export Web; 33 testes JavaScript aprovados, um teste do starter ignorado; 139 testes Python aprovados; seis checks estáticos nativos; autolinking e configuração Expo confirmados. Revisão corrigiu contrato setMask síncrono, retorno Unit e guarda de API28 antes de acessar HID em sessão USB, com regressões direcionadas.
+- [ ] Gerar APK nativo pela ação Android do Dashboard a partir do checkpoint, executar testes JVM fornecidos e confirmar compilação Kotlin. Não confundir Preview/Expo Go com HID funcionando.
+- [ ] Testar telefone Android + Windows + IKEMEN em partida real, incluindo foco, cabo removido, queda Bluetooth, permissão negada e suspensão. Nenhum APK, motor ou personagem foi executado nesta sessão.
+
+## Direção visual
+Reusar o Game Center JoJo-OS: fundo roxo escuro, amarelo para ação principal e verde para conexão real. Ícone original de gamepad, sem personagens/arte de terceiros. Superfície de controle limpa e tipografia nativa legível. Conexão/configuração em retrato; área de luta responsiva com direcional à esquerda e ataques à direita, sem gestos de rolagem interceptando os botões.

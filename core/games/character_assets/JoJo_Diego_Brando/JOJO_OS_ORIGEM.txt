@@ -1,0 +1,12 @@
+JoJo-OS — registro do pacote de personagem
+
+Série identificada pelo pacote: jojo
+Nome interno (.def): Diego Brando SM
+Autor indicado no .def: LautyCarp Edited by Gogetacris
+Versão indicada no .def: 6/2/2020
+Pacote fornecido pela usuária: pasted_file_0A8zUw_ikemen.zip
+Arquivo interno: Diego Brando.zip
+SHA-256 do arquivo interno: eafa1774ad9ca52216106b2592528a089fdb2b929a0ffe8afdf10ce6707da128
+SHA-256 do ZIP externo: fdd5a29fee7dd2bd19ff0e4821f03ce03bc103f87a5ac73a68aab2a924be64f6
+A licença de redistribuição não foi fornecida nem verificada; pacote recebido da usuária para uso local no JoJo-OS.
+O pacote é conteúdo de fã; o JoJo-OS não declara propriedade nem concede licença sobre personagens, sprites ou sons.

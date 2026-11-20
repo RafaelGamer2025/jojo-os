@@ -1,0 +1,12 @@
+JoJo-OS — registro do pacote de personagem
+
+Série identificada pelo pacote: jojo
+Nome interno (.def): Jotaro
+Autor indicado no .def: Warusaki3
+Versão indicada no .def: 05,18,2009
+Pacote fornecido pela usuária: pasted_file_0A8zUw_ikemen.zip
+Arquivo interno: jotaro_m-ism.zip
+SHA-256 do arquivo interno: d13d8babc85fd43b0735f9c9f8ad81fced78da59ff6f7bfd74840a9fab31a32c
+SHA-256 do ZIP externo: fdd5a29fee7dd2bd19ff0e4821f03ce03bc103f87a5ac73a68aab2a924be64f6
+A licença de redistribuição não foi fornecida nem verificada; pacote recebido da usuária para uso local no JoJo-OS.
+O pacote é conteúdo de fã; o JoJo-OS não declara propriedade nem concede licença sobre personagens, sprites ou sons.

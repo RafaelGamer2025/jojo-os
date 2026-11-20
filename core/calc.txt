@@ -1,0 +1,7 @@
+Esta cópia antiga da calculadora foi descontinuada. Ela usava eval() e captura de tela do desktop.
+
+A implementação atual fica em:
+- core/calc_window.py
+- core/safe_math.py
+
+Não copie nem execute o código antigo. A versão atual aceita apenas expressões aritméticas simples e não lê o conteúdo da tela.

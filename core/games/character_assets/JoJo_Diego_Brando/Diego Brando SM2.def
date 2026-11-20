@@ -1,0 +1,29 @@
+
+;-------------------------------------------------------------------------------
+[Info]
+name = "Diego Brando"
+displayname = "Diego Brando SM"
+versiondate = 6/2/2020
+mugenversion = 1.0
+author = "LautyCarp Edited by Gogetacris"
+pal.defaults = 1,2,3,4
+;-------------------------------------------------------------------------------
+[Files]
+sprite = Diego.sff
+anim = Diego.air
+sound = Diego.snd
+cmd = Diego.cmd
+cns = Diego.cns
+stcommon = common1.cns
+st = Diego.cns
+st1 = AI.cns
+st2 = Especiales.cns
+st3 = Super.cns
+pal1 = 1.act
+pal2 = DIO.act
+pal3 = Dio_Brando.act
+pal4 = Cover.act
+;-------------------------------------------------------------------------------
+[Arcade]
+;intro.storyboard = 
+;ending.storyboard = 

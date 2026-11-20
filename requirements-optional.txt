@@ -1,0 +1,4 @@
+# Motor Chromium opcional do navegador (a aplicação principal continua Tkinter).
+# PyQt6-WebEngine executa em ui.browser_qt, um subprocesso separado.
+PyQt6>=6.6,<7
+PyQt6-WebEngine>=6.6,<7

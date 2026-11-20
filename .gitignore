@@ -1,0 +1,42 @@
+# Python e ferramentas
+__pycache__/
+*.py[cod]
+.ruff_cache/
+.venv/
+venv/
+build/
+dist/
+
+# Segredos e configuração local
+.env
+**/.env
+*.env
+!.env.example
+# Logs de erro da JVM e replays
+*.log
+hs_err_pid*.log
+replay_pid*.log
+
+# Pastas temporárias do Gradle / Android
+.gradle/
+**/android/.gradle/
+build/
+# Contas, chaves e preferências pessoais
+/data/*.json
+/data/*.db*
+/data/*.sqlite*
+/data/*.migrated*.bak
+/data/workspace/*
+!/data/workspace/.gitkeep
+
+# Arquivos binários locais ou cuja licença ainda não foi confirmada
+*.sf2
+
+# Motor IKEMEN GO obtido sob demanda pelo hub; nunca faz parte do pacote-fonte
+/games/ikemen_go/
+/core/games/jojo_ikemen/
+
+# IDE e arquivos de sistema
+.vscode/
+.DS_Store
+Thumbs.db

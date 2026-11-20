@@ -1,0 +1,15 @@
+[info]
+name = "Itadori"
+mugenversion = 1.1
+author = "ScalzerBR" 
+       ; Original char by: [Viniciusonico]
+
+[files]
+anim= anim.air
+cmd= cmd.cmd
+cns= main.cns
+sound= snd.snd
+sprite= spr.sff
+stcommon= source.cns
+st= main.cns
+st2= extras.cns

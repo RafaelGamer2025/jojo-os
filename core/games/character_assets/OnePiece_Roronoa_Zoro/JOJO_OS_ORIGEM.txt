@@ -1,0 +1,12 @@
+JoJo-OS — registro do pacote de personagem
+
+Série identificada pelo pacote: one_piece
+Nome interno (.def): Zoro
+Autor indicado no .def: CobraG6
+Versão indicada no .def: 24/11/2017
+Pacote fornecido pela usuária: pasted_file_0A8zUw_ikemen.zip
+Arquivo interno: G6_Zoro.zip
+SHA-256 do arquivo interno: 30688e61f042f9e3d34eab1da4c15f782995bba6322a9b2a0f7c78c10f9fb48f
+SHA-256 do ZIP externo: fdd5a29fee7dd2bd19ff0e4821f03ce03bc103f87a5ac73a68aab2a924be64f6
+A licença de redistribuição não foi fornecida nem verificada; pacote recebido da usuária para uso local no JoJo-OS.
+O pacote é conteúdo de fã; o JoJo-OS não declara propriedade nem concede licença sobre personagens, sprites ou sons.

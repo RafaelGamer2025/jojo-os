@@ -1,0 +1,9 @@
+Personagem: Uzumaki Naruto (pacote "Naruto Academy")
+
+Créditos indicados no arquivo .def: personagem/edição por InSeph; base original creditada a BabyDesu.
+Página de referência da publicação de InSeph (cópia arquivada):
+https://web.archive.org/web/20250301/https://kodaika.com/naruto-uzumaki-jus/
+Arquivo de origem consultado: Naruto Academy.rar, MediaFire file key msltk7q0uor813t.
+SHA-256 do arquivo de origem: 019ba23d3f6c90a47b27fd4b7fd38328267dd845d50b005ed7504f699c0799c8
+
+O pacote foi incluído neste JoJo-OS de fã para uso local. Não foi encontrada licença explícita que permita redistribuição pública ou comercial. Os direitos dos personagens, sprites, sons e edições continuam com seus respectivos titulares/autores; não reenvie nem publique este pacote sem autorização.

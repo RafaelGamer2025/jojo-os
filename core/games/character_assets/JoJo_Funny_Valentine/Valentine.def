@@ -1,0 +1,22 @@
+[Info]
+name ="ValentineJUS"
+displayname ="Funny Valentine"
+versiondate =11/08/2018
+mugenversion =1.0
+author ="caxer602"
+pal.defaults =1
+
+[Files]
+sprite =ValentineJUS.sff
+sound =ValentineJUS.snd
+anim =ValentineJUS.air
+cmd =ValentineJUS.cmd
+cns =ValentineJUS.cns
+st =ValentineJUS.cns
+stcommon =common1.cns
+pal1=ValentineJUS.act
+st1=AI.cns
+
+[Arcade]
+intro.storyboard=
+ending.storyboard=
